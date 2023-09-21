@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tugas-Clone-Web-Uts/static/css/main.d7055bf9.css",
-    "main.js": "/Tugas-Clone-Web-Uts/static/js/main.d7ef22e7.js",
+    "main.js": "/Tugas-Clone-Web-Uts/static/js/main.cc11c04b.js",
     "static/media/fiturr.png": "/Tugas-Clone-Web-Uts/static/media/fiturr.11a0b47805db55769599.png",
     "static/media/fitur1.png": "/Tugas-Clone-Web-Uts/static/media/fitur1.d88da0b06813de92b2f6.png",
     "static/media/pras2.png": "/Tugas-Clone-Web-Uts/static/media/pras2.fa824e46c5132ecbd36f.png",
@@ -57,10 +57,10 @@
     "static/media/icon-download-1.svg": "/Tugas-Clone-Web-Uts/static/media/icon-download-1.00dbc9bf67b953dee46799c35eaf42b2.svg",
     "index.html": "/Tugas-Clone-Web-Uts/index.html",
     "main.d7055bf9.css.map": "/Tugas-Clone-Web-Uts/static/css/main.d7055bf9.css.map",
-    "main.d7ef22e7.js.map": "/Tugas-Clone-Web-Uts/static/js/main.d7ef22e7.js.map"
+    "main.cc11c04b.js.map": "/Tugas-Clone-Web-Uts/static/js/main.cc11c04b.js.map"
   },
   "entrypoints": [
     "static/css/main.d7055bf9.css",
-    "static/js/main.d7ef22e7.js"
+    "static/js/main.cc11c04b.js"
   ]
 }
